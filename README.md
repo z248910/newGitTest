@@ -1,4 +1,4 @@
 # newGitTest
 this is changed file
-third line
-fourth line
+Second line
+Third line
